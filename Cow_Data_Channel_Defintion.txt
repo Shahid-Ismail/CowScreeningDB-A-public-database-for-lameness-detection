@@ -1,0 +1,6 @@
+Time, Acceleration x, Acceleration z, Acceleration y, Gravity x, Gravity y, Gravity z, Rotation x, Rotation y, Rotation z, Roll, Pitch, Yaw, Heart rate.
+
+-Aceleración que viene dada en gravedad, con lo que sería 9,8 m/s2
+--Gravedad, 9.8 m/s2
+--Rotación  en rad/s
+--Row, yaw and pitch dado en radianes.
