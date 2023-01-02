@@ -13,22 +13,7 @@ DeepSignDB |-- Development
 |-- Evaluation
     |-- Finger
     |-- Stylus
-        
-Comparison_Files
-|-- Finger
-    |-- 1vs1
-        |-- Random
-        |-- Skilled
-    |-- 4vs1
-        |-- Random
-        |-- Skilled
-|-- Stylus
-    |-- 1vs1
-        |-- Random
-        |-- Skilled
-    |-- 4vs1
-        |-- Random
-        |-- Skilled
+
 
 # Instructions for downlaoding: AICow-SVM
 [seminario.pdf](https://github.com/Shahid-Ismail/Test/files/10324533/seminario.pdf)
