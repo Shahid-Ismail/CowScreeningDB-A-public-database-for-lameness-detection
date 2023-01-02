@@ -6,6 +6,7 @@ Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Migu
 1. Download the license
 2. For more information, contact.
 # Description of AICow-Dataset
+AICow-Dataset is arranged in form of folders which are in comma separated values(CSV) files. The structure of AICow is given
 # Instructions for downlaoding: AICow-SVM
 [seminario.pdf](https://github.com/Shahid-Ismail/Test/files/10324533/seminario.pdf)
 # Evaluation Results
