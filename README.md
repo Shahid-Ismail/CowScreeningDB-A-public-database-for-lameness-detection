@@ -13,5 +13,3 @@ AICow-Dataset is arranged in form of folders which are in comma separated values
 
 # Instructions for downlaoding: AICow-SVM
 [AICow-Classification Algorithm v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10330214/AICow-Classification.Algorithm.v1.0.zip)
-%# Evaluation Results
-%# References
