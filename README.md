@@ -8,11 +8,11 @@ Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Migu
  
 2. Send an email to atvs@uam.es, as follows:
 
-<pre>Subject: [DATABASE download: DeepSignDB]</pre>
+<pre>Subject: [DATABASE download: DeepSignDB]
 
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 
-Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.</pre>
 
 3. Download your corresponding license agreement:
 
