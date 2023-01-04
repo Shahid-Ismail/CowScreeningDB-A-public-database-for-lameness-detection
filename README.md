@@ -4,15 +4,10 @@ Complete Artificial Intelligence system for lameness screening in dairy cows
 # Article
 Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Miguel Angel Ferrer Ballester
 # Instructions for downloading: AICow-Dataset
-1. Download your corresponding license agreement:
-[link] Permanent researchers working at research or academic institutions, and selected companies generating research outcomes.
-Once the corresponding license agreement is signed, send the scanned copy to atvs@uam.es according to the instructions given in point 2.
-2. Download the database, [AICow-Dataset v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10330215/AICow-Dataset.v1.0.zip). The database is password protected.
- 
-3. Send an email to atvs@uam.es, as follows:\
+1. Download the license agreement [AICow-Dataset v1.0.zip]. Send a scanned copy of license after filling necessary information to  atvs@uam.es. Email should include the following
 Subject: [DATABASE download: DeepSignDB]:\
-Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement. 
-Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
+2. Once the email copy of the license agreement has been received at ATVS, you will receive an email with a password. This password can be used to extract the datac=base.
 
 
 
