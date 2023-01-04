@@ -19,4 +19,5 @@ Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its 
 2. **Structure_Generator.m** generates File, Segment and Experiment names.
 3. **Features_Generator.m** generates the features for a signal.
 4. **SVM_Training_All_Features.m, SVM_Training_Features_Abalation_Study.m and SVM_Training_Chanels_Abalation_Study.m** generates the results for complete study, ablation studies based on features and channels.\
+
 ![AICow_SVM_GitHub](https://user-images.githubusercontent.com/121656894/210477181-e6d67c51-3015-4e25-a0b6-03e4eb7c328d.svg)
