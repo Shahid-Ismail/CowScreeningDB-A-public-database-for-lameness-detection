@@ -7,7 +7,6 @@ Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Migu
 Subject: [DATABASE download: DeepSignDB]\
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 2. Once the email copy of the license agreement has been received at **https://www.ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [AICow-Dataset v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10341674/AICow-Dataset.v1.0.zip).
-3. 
 # Description of AICow-Dataset
 AICow-Dataset is arranged in form of folders which are comma separated values(CSV) files. The structure of AICow-Dataset is given below<br>
 ![AICow_GitHub](https://user-images.githubusercontent.com/121656894/210198942-e8583512-b5b4-48a0-bb7e-b2dd68beb7a6.svg)\
