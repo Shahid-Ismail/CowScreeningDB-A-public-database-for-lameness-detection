@@ -21,5 +21,5 @@ Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its 
 ![AICow_SVM_GitHub](https://user-images.githubusercontent.com/121656894/210477181-e6d67c51-3015-4e25-a0b6-03e4eb7c328d.svg)
 
 # Results
-Figure shows the area under the curve for an all features\
+Figure shows the area under the curve (AUC) for a study involving all features\
 <img src="https://user-images.githubusercontent.com/121656894/210492661-3c20471d-b830-47da-85c8-1c765926813a.png" height="450" width="600">
