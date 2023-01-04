@@ -22,5 +22,5 @@ Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its 
 
 # Results
 Figure shows the area under the curve for an all features
-![1_AUC_All_Features]<img src="https://user-images.githubusercontent.com/121656894/210492661-3c20471d-b830-47da-85c8-1c765926813a.png" height="24" width="48">
+![]<img src="https://user-images.githubusercontent.com/121656894/210492661-3c20471d-b830-47da-85c8-1c765926813a.png" height="300" width="450">
 <img src="https://github.com/favicon.ico" height="24" width="48">
