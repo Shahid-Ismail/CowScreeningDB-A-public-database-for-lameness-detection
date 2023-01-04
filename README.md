@@ -4,6 +4,8 @@ Complete Artificial Intelligence system for lameness screening in dairy cows
 # Article
 Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Miguel Angel Ferrer Ballester
 # Instructions for downloading: AICow-Dataset
+1. 
+
 Download your corresponding license agreement:
 
 [link] Permanent researchers working at research or academic institutions, and selected companies generating research outcomes.
