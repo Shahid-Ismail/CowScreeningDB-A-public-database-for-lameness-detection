@@ -11,7 +11,7 @@ Body: Your name, e-mail, telephone number, organization, postal mail, purpose fo
 
 # Description of AICow-Dataset
 AICow-Dataset is arranged in form of folders which are comma separated values(CSV) files. The structure of AICow-Dataset is given below<br>
-![AICow_GitHub](https://user-images.githubusercontent.com/121656894/210198942-e8583512-b5b4-48a0-bb7e-b2dd68beb7a6.svg)
+![AICow_GitHub](https://user-images.githubusercontent.com/121656894/210198942-e8583512-b5b4-48a0-bb7e-b2dd68beb7a6.svg)\
 Folder name (xxxxx_1) contains number assigned to a cow and its illness level. For example 
 
 # Instructions for downlaoding: AICow-SVM
