@@ -1,5 +1,5 @@
-# AICow
-Complete Artificial Intelligence system for lameness screening in dairy cows
+# CowScreeningDB
+A public benchmark dataset for lameness detection in dairy cows
 # Article
 Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Miguel Angel Ferrer Ballester
 # Instructions for downloading: AICow-Dataset
