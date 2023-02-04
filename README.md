@@ -1,5 +1,11 @@
 # CowScreeningDB
 A public benchmark dataset for lameness detection in dairy cows
+# Introduction
+
+
+https://user-images.githubusercontent.com/121656894/216747515-6f954085-250d-4be9-b8ef-f71ec4098a83.mp4
+
+
 # Article
 Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Miguel Angel Ferrer Ballester
 # Instructions for downloading: CowScreeningDB-Dataset
