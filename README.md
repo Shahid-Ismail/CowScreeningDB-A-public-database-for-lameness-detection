@@ -14,7 +14,7 @@ Body: Your name, e-mail, telephone number, organization, postal mail, purpose fo
 2. Once the email copy of the license agreement has been received at **https://www.ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [CowScreeningDB-Dataset v1.0.zip](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB-Dataset%20v1.0.zip).
 # Description of CowScreeningDB
 CowScreeningDB is arranged in form of folders which are comma separated values(CSV) files. The structure of CowScreeningDB is given below<br>
-![CowScreeningDB_GitHub](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_GitHub.svg)
+![CowScreeningDB_GitHub](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_GitHub.svg)\
 
 Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its illness level (**1**). Similarly, **Illnessdegree_1_Leg_rearleft_Acquisitiondata_15_05_2022_Acquisitiontime_11_14_57.csv** refers to sample which was acquired on **15 May 2022** at **11:14:57** when sensor was attached to rearleft of the leg of a healthy cow (**illness level 1**). 
 
@@ -23,7 +23,7 @@ Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its 
 2. **Structure_Generator.m** generates File, Segment and Experiment names.
 3. **Features_Generator.m** generates the features for a signal.
 4. **SVM_Training_All_Features.m, SVM_Training_Features_Abalation_Study.m and SVM_Training_Chanels_Abalation_Study.m** generates the results for the complete study and ablation studies based on features/ channels.
-![CowScreeningDB_SVM_GitHub](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_SVM_GitHub.svg)
+![CowScreeningDB_SVM_GitHub](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_SVM_GitHub.svg)\
 
 # Results
 Figure shows the area under the curve (AUC) for a study involving all features\
