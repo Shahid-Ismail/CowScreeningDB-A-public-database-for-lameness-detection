@@ -12,13 +12,13 @@ Shahid Ismail, Moises Diaz, Cristina Carmona-Duarte, Jose Manuel Vilar and Migue
 Subject: [DATABASE download: CowScreeningDB]\
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 2. Once the email copy of the license agreement has been received at **https://www.ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [AICow-Dataset v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10341674/AICow-Dataset.v1.0.zip).
-# Description of AICow-CowScreeningDB
+# Description of CowScreeningDB
 CowScreeningDB is arranged in form of folders which are comma separated values(CSV) files. The structure of CowScreeningDB is given below<br>
 ![AICow_GitHub](https://user-images.githubusercontent.com/121656894/210198942-e8583512-b5b4-48a0-bb7e-b2dd68beb7a6.svg)\
 Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its illness level (**1**). Similarly, **Illnessdegree_1_Leg_rearleft_Acquisitiondata_15_05_2022_Acquisitiontime_11_14_57.csv** refers to sample which was acquired on **15 May 2022** at **11:14:57** when sensor was attached to rearleft of the leg of a healthy cow (**illness level 1**). 
 
 # Instructions for downlaoding code
-1. Down and extract [AICow-Classification Algorithm v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10330214/AICow-Classification.Algorithm.v1.0.zip)
+1. Down and extract [CowScreeningDB-Classification Algorithm v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10330214/AICow-Classification.Algorithm.v1.0.zip)
 2. **Structure_Generator.m** generates File, Segment and Experiment names.
 3. **Features_Generator.m** generates the features for a signal.
 4. **SVM_Training_All_Features.m, SVM_Training_Features_Abalation_Study.m and SVM_Training_Chanels_Abalation_Study.m** generates the results for the complete study and ablation studies based on features/ channels.
