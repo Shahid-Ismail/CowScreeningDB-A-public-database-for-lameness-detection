@@ -2,12 +2,11 @@
 A public benchmark database for lameness detection in dairy cows
 # Introduction
 
-
 https://user-images.githubusercontent.com/121656894/216747515-6f954085-250d-4be9-b8ef-f71ec4098a83.mp4
 
 
 # Article
-Shahid Ismail, Moises Diaz, Cristina Carmona, Jose Manuel Vilar Guereno and Miguel Angel Ferrer Ballester
+Shahid Ismail, Moises Diaz, Cristina Carmona-Duarte, Jose Manuel Vilar and Miguel A. Ferrer. “CowScreeningDB: A public benchmark dataset for lameness detection in dairy cows”. Computers and Electronics in Agriculture. Under review.
 # Instructions for downloading: CowScreeningDB
 1. Download the license agreement [AICow License.pdf](https://github.com/Shahid-Ismail/Test/files/10341673/AICow_License.pdf). Send a scanned copy of license after filling necessary information to xxxx@ulpgc.es. Email should include the following\
 Subject: [DATABASE download: CowScreeningDB]\
