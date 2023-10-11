@@ -17,7 +17,7 @@ CowScreeningDB is arranged in form of folders which are comma separated values(C
 ![AICow_GitHub](https://user-images.githubusercontent.com/121656894/210198942-e8583512-b5b4-48a0-bb7e-b2dd68beb7a6.svg)\
 Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its illness level (**1**). Similarly, **Illnessdegree_1_Leg_rearleft_Acquisitiondata_15_05_2022_Acquisitiontime_11_14_57.csv** refers to sample which was acquired on **15 May 2022** at **11:14:57** when sensor was attached to rearleft of the leg of a healthy cow (**illness level 1**). 
 
-# Instructions for downlaoding: CowScreeningDB-SVM
+# Instructions for downlaoding code
 1. Down and extract [AICow-Classification Algorithm v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10330214/AICow-Classification.Algorithm.v1.0.zip)
 2. **Structure_Generator.m** generates File, Segment and Experiment names.
 3. **Features_Generator.m** generates the features for a signal.
