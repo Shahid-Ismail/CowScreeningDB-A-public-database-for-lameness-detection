@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/121656894/216747515-6f954085-250d-4be9
 # Article
 Shahid Ismail, Moises Diaz, Cristina Carmona-Duarte, Jose Manuel Vilar and Miguel A. Ferrer. “CowScreeningDB: A public benchmark dataset for lameness detection in dairy cows”. Computers and Electronics in Agriculture. Under review.
 # Instructions for downloading: CowScreeningDB
-1. Download the license agreement [AICow License.pdf](https://github.com/Shahid-Ismail/Test/files/10341673/AICow_License.pdf). Send a scanned copy of license after filling necessary information to xxxx@ulpgc.es. Email should include the following\
+1. Download the license agreement [CowScreeningDB_License.pdf](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_License.pdf). Send a scanned copy of license after filling necessary information to xxxx@ulpgc.es. Email should include the following\
 Subject: [DATABASE download: CowScreeningDB]\
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 2. Once the email copy of the license agreement has been received at **https://www.ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [AICow-Dataset v1.0.zip](https://github.com/Shahid-Ismail/Test/files/10341674/AICow-Dataset.v1.0.zip).
