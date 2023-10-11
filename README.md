@@ -27,4 +27,4 @@ Folder name (**05371_1**) contains number assigned to a cow (**05371**) and its 
 
 # Results
 Figure shows the area under the curve (AUC) for a study involving all features\
-<img src="https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/Results_GitHub.png" height="300" width="600">
+<img src="https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/Results_GitHub.png" height="200" width="600">
