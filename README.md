@@ -11,7 +11,7 @@ Shahid Ismail, Moises Diaz, Cristina Carmona-Duarte, Jose Manuel Vilar and Migue
 1. Download the license agreement [CowScreeningDB_License.pdf](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_License_Agreement.pdf). Send a scanned copy of license after filling necessary information to moises.diaz@ulpgc.es. Email should include the following\
 Subject: [DATABASE download: CowScreeningDB]\
 Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
-2. Once the email copy of the license agreement has been received at **https://www.ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [CowScreeningDB-Dataset v1.0.zip](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB-Dataset%20v1.0.zip).
+2. Once the email copy of the license agreement has been received at **moises.diaz@ulpgc.es**, you will receive an email with a password. This password can be used to extract the database [CowScreeningDB-Dataset v1.0.zip](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB-Dataset%20v1.0.zip).
 # Description of CowScreeningDB
 CowScreeningDB is arranged in form of folders which are comma separated values (CSV) files. The structure of CowScreeningDB is given below<br>
 ![CowScreeningDB_GitHub](https://github.com/Shahid-Ismail/CowScreeningDB-A-public-database-for-lameness-detection/blob/main/CowScreeningDB_GitHub.svg)
